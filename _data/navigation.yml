@@ -1,0 +1,15 @@
+# main links
+main:
+   - title: "Home"
+     url: https://forum.puppylinux.com/viewforum.php?f=231
+   - title: "About"
+     url: https://forum.puppylinux.com
+   - title: "Github"
+     url: https://github.com/sofijacom    
+   - title: "Curriculum Vitæ"
+  #   url: /year-archive/
+   - title: "Plugins"
+  #   url: /collection-archive/
+   - title: "Blog"
+     url: /docs/posts/
+
