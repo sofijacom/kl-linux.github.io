@@ -14,5 +14,5 @@ main:
      url: /docs/posts/
 
 navigation_pages:
- - title: "Blog"
-   - posts.md
+   - title: "Blog"
+    - posts.md
