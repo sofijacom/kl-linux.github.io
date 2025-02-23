@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blogs
 permalink: /docs/posts/
 description: "Expand your knowledge and stay informed with our engaging blog posts"
 image: /assets/images/blog-page.jpg
