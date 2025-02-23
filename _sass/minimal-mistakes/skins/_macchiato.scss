@@ -7,6 +7,7 @@ $base-color: #aa55ff !default;
 $text-color: #c6a0f6 !default;
 $accent-color: #8839ef !default;
 $background-color: #1e1e2e !default;
-$code-background-color: #939ab7 !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
 $border-color: rgba($text-color, 0.5) !default;
 $overlay-color: #939ab7 !default;
