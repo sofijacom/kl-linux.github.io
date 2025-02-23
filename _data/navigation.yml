@@ -13,5 +13,5 @@ main:
    - title: "Blog"
      url: /docs/posts/
 
-   - title: "Blog"
-     - /posts.md
+navigation_pages:
+  - posts.md
