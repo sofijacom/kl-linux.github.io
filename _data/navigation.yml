@@ -15,4 +15,4 @@ main:
 
 navigation_pages:
    - title: "Blog"
-    - posts.md
+   - posts.md
