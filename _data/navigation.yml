@@ -15,4 +15,4 @@ main:
 
 navigation_pages:
    - title: "Blogs"
-   - posts.md
+     url: /posts.md
