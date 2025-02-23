@@ -14,8 +14,6 @@ main:
      url: /docs/posts/
    - title: "Terms &amp; Privacy Policy"
      url: /terms/    
-
-navigation_pages:
    - title: "Blogs"
      url: /posts.md
 
