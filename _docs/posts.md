@@ -1,5 +1,6 @@
 ---
-title: Blog
+permalink: /posts
+title: Blogs
 excerpt: "Expand your knowledge and stay informed with our engaging blog posts"
 header:
  image: /assets/images/blog-page.jpg
