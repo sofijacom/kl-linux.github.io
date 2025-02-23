@@ -13,7 +13,7 @@ main:
    - title: "Blog"
      url: /docs/posts/
    - title: "Blogs"
-     url: /posts.md     
+     url: posts    
    - title: "Terms &amp; Privacy Policy"
      url: /terms/    
 
