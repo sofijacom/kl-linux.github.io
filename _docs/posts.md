@@ -6,7 +6,7 @@ header:
  teaser: /assets/images/blog-page.jpg
   actions:
    - label: "More Info"
-     url: "https://forum.puppylinux.com"
+       url: "https://forum.puppylinux.com"
 ---
 
 
