@@ -11,8 +11,6 @@ main:
    - title: "Plugins"
   #   url: /collection-archive/
    - title: "Blog"
-     url: /docs/posts/
-   - title: "Blogs"
      url: /posts    
    - title: "Terms &amp; Privacy Policy"
      url: /terms/    
